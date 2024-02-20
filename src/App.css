@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+  }
+  body {
+    /* background-image: linear-gradient(315deg,black,rgb(38, 34, 34)  ); */
+    background-color: white;
+  }
+.box{
+ 
+    /* background-image: linear-gradient(315deg, #485461 , #28313b ); */
+    background-image: linear-gradient(315deg, #26292c , #343d48 );
+
+}
+#input1 {
+    width: 162px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    border: 1px solid #121212;
+}
+.small-box input[type="button"]{
+    width: 81px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    border: 1px solid #121212;
+}
+.small-box input[type="button"]:hover{
+    background-color:rgb(46, 44, 44) ;
+}
+#input2 {
+    width: 162px;
+    height: 65px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    border: 1px solid #121212 ;
+}
+#input1:hover{
+    background-color:rgb(46, 44, 44) ;
+}
+#input2:hover{
+    background-color:rgb(46, 44, 44)  ; 
+}
